@@ -5,6 +5,8 @@ Feel free to take a look at my website!
 
 https://www.dougs-portfolio.com/
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bcdfc837-f70a-41a7-a467-58cc0f6c9135/deploy-status)](https://app.netlify.com/sites/dougs-portfolio/deploys)
+
 <a href="https://profile-summary-for-github.com/user/BugDoug"> My Profile Summary
   
 <h1>Projects I have worked on in the past:</h1>
